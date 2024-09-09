@@ -26,6 +26,7 @@ Min Price (Lakh): Minimum price of the vehicle in lakhs
 ## How to Run the App
 
 1. Clone this repository:
+   https://github.com/Sithija-Wijesinghe/Streamlit_tutorial.git
 
 
 
